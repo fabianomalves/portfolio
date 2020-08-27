@@ -2,29 +2,5 @@ theme: jekyll-theme-midnight
 title: Fabiano's Portfolio
 description: This is my personal portfolio
 # show_downloads: true
-google_analytics:
-links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://fabianomalves.com/"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:fabianomalves@protonmail.com
-    # - label: "Twitter"
-    # icon: "fab fa-fw fa-twitter-square"
-    # url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/fabianomalves"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/fabianomalves/"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/fabianomalves/"
-    - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      url:  "https://www.youtube.com/channel/UCuECtHiu-C0rNkwZjoLdsCA?view_as=subscriber"
-    - label: "Pinterest"
-      icon: "fab fa-pinterest"
-      url:  "https://br.pinterest.com/fabianomalve/"
+google_analytics: "UA-122678291-2"
+
